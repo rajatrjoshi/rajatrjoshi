@@ -27,9 +27,8 @@ I'm a passionate full stack developer with 3+ years of experience crafting scala
 
 ## 🌟 Favorite Projects
 
-- [Thinking Reading](https://github.com/rajatrjoshi/Thinking-Reading)
 - [Meet.AI](https://github.com/rajatrjoshi/meet-ai)
-- [UrbanGrit](#) <!-- Add repo link if available -->
+- [UrbanGrit](https://github.com/rajatrjoshi/URBANGRIT)
 
 ---
 
